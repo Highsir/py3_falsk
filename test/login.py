@@ -1,3 +1,5 @@
-print("manager的第一个功能")
-num2 = 20
-num3 = 300
+print("highsir的第一个功能")
+num1 = 10
+
+prin("highsir的第二个功能")
+num = 21
